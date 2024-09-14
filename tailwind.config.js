@@ -11,6 +11,9 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      margin: {
+        '80p': '80%', // Adding custom margin utility
+      },
     },
   },
   plugins: [],
